@@ -58,5 +58,5 @@ export class UserServiceService {
     timestamp: '4w',
   } as UserModel;
 
-  userlist:UserModel[] = [this.user1, this.user2, this.user3, this.user4, this.user5];
+  userlist:UserModel[] = [this.user1, this.user2, this.user3, this.user4, this.user5,this.user1];
 }
